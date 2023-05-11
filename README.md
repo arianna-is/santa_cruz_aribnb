@@ -7,3 +7,6 @@ The goal of this project was to analyze the Santa Cruz County Airbnb market to i
 
 Link to dashboard on Tableau Public: 
 https://public.tableau.com/views/SantaCruzCountyAirbnbMarket/ZillowSCCounty?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+(Data taken from insideairbnb.com)
